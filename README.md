@@ -10,7 +10,7 @@
 
 <!-- Typing animation subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Full-Stack+Dev+%26+AI+Builder+%F0%9F%A4%96;Shipping+Helix+%2B+MWP+from+New+Delhi%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Powered+by+chai+%E2%98%95%2C+Claude+%26+2AM+LeetCode" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Full-Stack+Dev+%26+AI+Builder+%F0%9F%A4%96;Shipping+Helix+%2B+MWP+from+New+Delhi%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Powered+by+coffee+%E2%98%95%2C+Claude+%26+2AM+LeetCode" alt="Typing SVG" />
 </p>
 
 <p align="center">
