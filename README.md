@@ -96,12 +96,12 @@
 ~/contact $ cat links.sh
 ```
 
-```bash
+
 #!/bin/bash
-echo "📧 Email     →  [gouravshokeen41@gmail.com]"
-echo "🌐 Portfolio →  gouravshokeen.me"
-echo "💼 LinkedIn  →  [https://www.linkedin.com/in/gourav-shokeen/]"
-```
+`📧` **Email** → [gouravshokeen41@gmail.com](mailto:gouravshokeen41@gmail.com)  
+`🌐` **Portfolio** → [gouravshokeen.me](https://gouravshokeen.me)  
+`💼` **LinkedIn** → [linkedin.com/in/gourav-shokeen](https://www.linkedin.com/in/gourav-shokeen/)
+
 
 ---
 
