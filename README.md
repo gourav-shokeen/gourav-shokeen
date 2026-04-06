@@ -41,7 +41,7 @@
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| 🧠 **[Helix](https://github.com/gourav/helix)** | Collaborative notes app for coders & students. Codebase Brain, Mermaid diagrams, AI-powered. | Next.js 14, Supabase, Groq, Tiptap | `🟢 Active` |
+| 🧠 **[Helix](https://helixx.me/)** | Collaborative notes app for coders & students. Codebase Brain, Mermaid diagrams, AI-powered. | Next.js 14, Supabase, Groq, Tiptap | `🟢 Active` |
 | 💪 **MWP** | Physiotherapy startup mobile app. Therapist onboarding, booking, patient flows. | React Native, Expo SDK 54 | `🟢 Active` |
 | 🔬 **[AI Research Summariser](https://ai-research-paper-summarizer-zeta.vercel.app)** | Groq-powered research paper summariser with BYOK + demo mode. | Next.js, Vercel, Groq | `✅ Deployed` |
 
