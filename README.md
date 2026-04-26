@@ -53,11 +53,33 @@
 
 ```json
 {
-  "frontend":  ["Next.js 14", "React Native", "TypeScript", "TailwindCSS", "Tiptap"],
-  "backend":   ["Supabase", "Prisma", "PostgreSQL", "Neon"],
-  "ai_tools":  ["Groq", "LLMs", "Claude API", "Anthropic SDK"],
-  "devtools":  ["GitHub Copilot", "Antigravity IDE", "Claude"],
-  "learning":  ["AI/ML", "Data Structures & Algorithms", "LLM-powered apps"]
+  "frontend": [
+    "Next.js 14", "React Native", "Expo SDK", "TypeScript", "JavaScript",
+    "TailwindCSS", "Tiptap", "Framer Motion", "Zustand", "React Navigation",
+    "Vite", "React 19", "SVG / React Native SVG", "Yjs"
+  ],
+  "backend": [
+    "Supabase", "Prisma", "PostgreSQL", "Neon",
+    "Node.js", "Express", "FastAPI", "REST APIs", "WebSockets"
+  ],
+  "ai_ml": [
+    "Groq", "Claude API", "Anthropic SDK", "HuggingFace Transformers",
+    "xlm-roberta", "BERT Fine-tuning", "DAPT", "Sentiment Analysis",
+    "PyTorch", "NumPy", "Pandas", "Python", "Colab / GPU Training"
+  ],
+  "auth_devops": [
+    "Clerk", "JWT", "Docker", "Vercel", "Railway",
+    "GitHub Actions", "Environment Config", "RLS / Supabase Auth"
+  ],
+  "devtools": [
+    "GitHub Copilot", "Antigravity IDE", "Claude", "Claude Code",
+    "Git / GitHub", "Postman", "Notion"
+  ],
+  "learning": [
+    "AI/ML", "LLM Fine-tuning", "MLOps",
+    "Data Structures & Algorithms", "LLM-powered Apps",
+    "System Design", "API Design"
+  ]
 }
 ```
 
@@ -65,8 +87,6 @@
 ~/contact $ cat links.sh
 ```
 
-
-#!/bin/bash
 `📧` **Email** → [gouravshokeen41@gmail.com](mailto:gouravshokeen41@gmail.com)  
 `🌐` **Portfolio** → [gouravshokeen.me](https://gouravshokeen.me)  
 `💼` **LinkedIn** → [linkedin.com/in/gourav-shokeen](https://www.linkedin.com/in/gourav-shokeen/)
