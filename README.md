@@ -61,26 +61,6 @@
 }
 ```
 
----
-
-```bash
-~/now $ cat status.txt
-```
-
-```
-🚀  Building   → Helix (Codebase Brain, Pyodide integration, share links)
-🚀  Building   → MWP (therapist onboarding, patient app flows)
-🧠  Learning   → AI/ML fundamentals, DSA, LLM app development
-🤝  Open to    → AI-powered web apps, dev tools, early-stage startup collabs
-📍  Based in   → New Delhi, India
-```
-
----
-
-```bash
-
----
-
 ```bash
 ~/contact $ cat links.sh
 ```
@@ -101,8 +81,6 @@
 ```
 ⚡ Not all superheroes wear capes.
    Some just have good prompts.
-
-   I once asked an AI to describe me. It said "dangerous amount of side projects." It wasn't wrong.
 ```
 
 ---
