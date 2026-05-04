@@ -36,54 +36,6 @@
 ---
 
 ```bash
-~/projects $ ls -la
-```
-
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| 🧠 **[Helix](https://helixx.me/)** | Collaborative notes app for coders & students. Codebase Brain, Mermaid diagrams, AI-powered. | Next.js 14, Supabase, Groq, Tiptap | `🟢 Active` |
-| 💪 **MWP** | Physiotherapy startup mobile app. Therapist onboarding, booking, patient flows. | React Native, Expo SDK 54 | `🟢 Active` |
-| 🔬 **[AI Research Summariser](https://ai-research-paper-summarizer-zeta.vercel.app)** | Groq-powered research paper summariser with BYOK + demo mode. | Next.js, Vercel, Groq | `✅ Deployed` |
-
----
-
-```bash
-~/stack $ cat tech.json
-```
-
-```json
-{
-  "frontend": [
-    "Next.js 14", "React Native", "Expo SDK", "TypeScript", "JavaScript",
-    "TailwindCSS", "Tiptap", "Framer Motion", "Zustand", "React Navigation",
-    "Vite", "React 19", "SVG / React Native SVG", "Yjs"
-  ],
-  "backend": [
-    "Supabase", "Prisma", "PostgreSQL", "Neon",
-    "Node.js", "Express", "FastAPI", "REST APIs", "WebSockets"
-  ],
-  "ai_ml": [
-    "Groq", "Claude API", "Anthropic SDK", "HuggingFace Transformers",
-    "xlm-roberta", "BERT Fine-tuning", "DAPT", "Sentiment Analysis",
-    "PyTorch", "NumPy", "Pandas", "Python", "Colab / GPU Training"
-  ],
-  "auth_devops": [
-    "Clerk", "JWT", "Docker", "Vercel", "Railway",
-    "GitHub Actions", "Environment Config", "RLS / Supabase Auth"
-  ],
-  "devtools": [
-    "GitHub Copilot", "Antigravity IDE", "Claude", "Claude Code",
-    "Git / GitHub", "Postman", "Notion"
-  ],
-  "learning": [
-    "AI/ML", "LLM Fine-tuning", "MLOps",
-    "Data Structures & Algorithms", "LLM-powered Apps",
-    "System Design", "API Design"
-  ]
-}
-```
-
-```bash
 ~/contact $ cat links.sh
 ```
 
