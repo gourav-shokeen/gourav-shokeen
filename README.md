@@ -299,11 +299,13 @@ Led end-to-end planning and execution of campus debate and public-speaking event
 
 ---
 
-## GitHub Trophies
+## GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gourav-shokeen&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" />
+<img src="https://img.shields.io/badge/Pull%20Shark-%C3%972-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Quickdraw-Unlocked-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Pro-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
